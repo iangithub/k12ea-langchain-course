@@ -1,0 +1,28 @@
+[project]
+name = "school-ai-agent-day1"
+version = "0.1.0"
+description = "Day 1 examples for the school generative AI agent course"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "langchain>=1.2,<2",
+    "langchain-google-genai>=4,<5",
+    "langchain-openai>=1.1,<2",
+    "openai>=1.100,<3",
+    "pydantic>=2.12,<3",
+    "python-dotenv>=1.2,<2",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9,<10",
+    "ruff>=0.14,<1",
+]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
