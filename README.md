@@ -9,3 +9,5 @@ git clone https://github.com/iangithub/k12ea-langchain-course.git
 cd k12ea-langchain-course/day1
 uv sync --frozen
 ```
+
+xxxxxWRaEykTdOrdiDFFhyHB0oVHnWowtXzwahacHfIHvG980yYpJQQJ99CDACHYHv6XJ3w3AAAAACOxxxxx
