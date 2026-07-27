@@ -1,0 +1,1 @@
+"""Day 2 RAG and LangGraph course examples."""
