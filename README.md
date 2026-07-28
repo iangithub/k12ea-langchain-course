@@ -1,8 +1,8 @@
 # LangChain 課程教材
 
-目前已提供 Day 1 教材與範例。
+目前已提供 Day 1+2 教材與範例。
 
-## 下載與設定 Day 1
+## 下載與設定
 
 ```powershell
 git clone https://github.com/iangithub/k12ea-langchain-course.git
